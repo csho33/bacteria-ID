@@ -35,9 +35,9 @@ data/y_2019clinical.npy
 ## Files
 
 This repo should contain the following files:
-- 1_reference_finetuning.ipynb - demonstrates finetuning a pre-trained CNN on the 30-isolate classification task - 
-- 2_prediction.ipynb - 
-- 3_clinical_finetuning.ipynb - 
+- 1_reference_finetuning.ipynb - demonstrates fine-tuning a pre-trained CNN on the 30-isolate classification task
+- 2_prediction.ipynb - demonstrates making predictions with a fine-tuned CNN
+- 3_clinical_finetuning.ipynb - demonstrates fine-tuning a pre-trained CNN using clinical data and making predictions for individual patients
 - config.py - contains information about the provided dataset
 - datasets.py - contains code for setting up datasets and dataloaders for spectral data
 - resnet.py - contains ResNet CNN model class

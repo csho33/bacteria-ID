@@ -19,7 +19,7 @@ We recommend using the Anaconda Python distribution, which is available for Wind
 
 ## Data
 
-The data for the experiments can be downloaded [here](https://stanford.box.com/v/bacteria-ID) and should be saved in the `data` subdirectory, which should look like:
+The data for the experiments can be downloaded [here](https://www.dropbox.com/sh/gmgduvzyl5tken6/AABtSWXWPjoUBkKyC2e7Ag6Da?dl=0) and should be saved in the `data` subdirectory, which should look like:
 
 ```
 data/X_finetune.npy
